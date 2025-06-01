@@ -4,7 +4,7 @@ const Index = () => {
   return (
     <div className="container mx-auto mt-10">
       <div className="flex flex-col ">
-        <h1 className="text-2xl font-bold items-center mb-6">Todo List</h1>
+        <h1 className="text-2xl font-bold items-center mb-6">My Todo List</h1>
         {/* <ul>
           {todos.map((todo) => (
             <li
